@@ -729,4 +729,3 @@ for(int i = 0; i < 10; i++){
 Each loop has unique traits that should make it easy to decide which to use in different scenarios. In simplest terms if you know how many times you want the loop to run you should use a for loop. This means for loops are typically used in combination arrays (or other container types) as we want to run the loop equal to the number of items stored in the array.
 
 In opposition if you don’t know how many times you want the loop to run, make use of the while loop - picking the do while if you need to guarantee the execution of the code block once before checking the condition.
-
