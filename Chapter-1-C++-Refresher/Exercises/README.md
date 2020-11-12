@@ -249,4 +249,3 @@ The program will prompt the user to choose the operation choice (from 1 to 5). T
 
 * Allow the user to keep entering values until they enter Q to quit.
 * Handle incorrect input
-
