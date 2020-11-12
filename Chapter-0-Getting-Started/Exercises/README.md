@@ -22,4 +22,3 @@ Part 2::ballot_box_with_check:
 *Modify your program such that the computer asks the user for their name and hometown, then stores these in variables (hint: we have used cout for output, perhaps there is something similar for input? Also for now only give it your first name).
 Now use the variables to print the short biography with the values entered by the user.*
 
-
