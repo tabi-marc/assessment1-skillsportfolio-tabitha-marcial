@@ -7,4 +7,3 @@ Fiona May,55,F,2 The Shallows Bristol,£53000
 Harry Pane,24,M,Spring Bottom Trowbridge,£23000
 Lucy Goater,27,F,Fresh Meadow Lane Westwood,£28000
 JeFf Bloggs,44,M,19 Lynford Avenue Bath,£25000
-
