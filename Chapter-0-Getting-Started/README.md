@@ -19,4 +19,3 @@ GitHub will also be used for the submission of assignment code. Guides on using 
  
 ## Spot an error?
 If you spot an error in these chapters please let me know via arshiya@bathspa.ae
-
