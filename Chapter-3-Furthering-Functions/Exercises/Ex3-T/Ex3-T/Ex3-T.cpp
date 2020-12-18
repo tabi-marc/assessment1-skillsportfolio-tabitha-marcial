@@ -21,4 +21,3 @@ int main()
     cout << "\nThe output value is: " << i << endl;  //An output statement.
     return 0;
 }
-
